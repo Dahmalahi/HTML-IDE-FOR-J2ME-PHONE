@@ -1,4 +1,5 @@
-remove emoji # HTML IDE for J2ME - Brief Description
+<img width="128" height="128" alt="html" src="https://github.com/user-attachments/assets/83375017-427a-4eac-90b7-076e5141e5ec" />
+
 
 ## What It Is
 A **mobile HTML/CSS/JavaScript IDE** built entirely in Java ME (J2ME) for old Nokia/Sony Ericsson feature phones running MIDP 2.0.
